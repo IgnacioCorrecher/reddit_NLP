@@ -1,5 +1,7 @@
 # reddit_NLP
 
+![Reddit Icon with a comic style](imgs/reddit_nlp.webp)
+
 ## Table of Contents
 
 1. [Overview](#overview)
