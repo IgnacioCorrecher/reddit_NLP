@@ -1,8 +1,33 @@
 # reddit_NLP
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Project Structure](#project-structure)
+3. [Features](#features)
+4. [Installation](#installation)
+    - [Clone the Repository](#clone-the-repository)
+    - [Set Up Reddit API Credentials](#set-up-reddit-api-credentials)
+5. [Usage](#usage)
+    - [Run the Data Collection Script](#run-the-data-collection-script)
+    - [Perform Sentiment Analysis](#perform-sentiment-analysis)
+    - [Visualize the Results](#visualize-the-results)
+6. [Results](#results)
+7. [License](#license)
+
 ## Overview
 
 `reddit_NLP` is a data science project focused on sentiment analysis of Reddit comments. By leveraging Reddit's API, this project collects a dataset of 1 million comments from various subreddits and performs sentiment analysis to understand the overall mood and opinions expressed by users.
+
+## Project Structure
+
+```
+reddit_NLP/
+├── data/                    # Folder for storing collected data
+├── notebooks/               # Jupyter notebooks for exploratory analysis
+├── src/                     # Source code for data collection, analysis, and visualization
+├── README.md                # Project documentation
+```
 
 ## Features
 
@@ -20,6 +45,7 @@ To run this project, you'll need to have Python installed. Follow the steps belo
     git clone https://github.com/your_username/reddit_NLP.git
     cd reddit_NLP
     ```
+2. **Set up Reddit API credentials**:
 
 ## Usage
 
@@ -48,16 +74,6 @@ After setting up the environment and installing the necessary dependencies, you 
     ```
 
     This script will generate various plots to help you understand the sentiment trends within the data.
-
-## Project Structure
-
-```
-reddit_NLP/
-├── data/                    # Folder for storing collected data
-├── notebooks/               # Jupyter notebooks for exploratory analysis
-├── src/                     # Source code for data collection, analysis, and visualization
-├── README.md                # Project documentation
-```
 
 ## Results
 
