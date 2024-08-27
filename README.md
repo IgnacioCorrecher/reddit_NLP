@@ -14,6 +14,9 @@
     - [Run the Sentiment Analysis](#run-the-sentiment-analysis)
     - [Explore the Results](#explore-the-results)
 6. [Results](#results)
+    - [Overall Sentiment Distribution](#overall-sentiment-distribution)
+    - [Subreddit Sentiment Analysis](#subreddit-sentiment-analysis)
+    - [Key Insights](#key-insights)
 7. [License](#license)
 
 ## Overview
